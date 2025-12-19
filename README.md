@@ -13,3 +13,10 @@ At the end of the page there is a footer with a section which says "Support" the
 Authors:
 Juan Esteban Cabrera Perez 
 Clan: MCCARTHY
+
+INSTRUCTIONS FOR CLONE:
+1. Start a new repository in visual studio CODE
+2. Use the command git init for clone the repository
+3. Then, use the command git clone and the code cssh bringed in the code of git
+4. Next, enter to the folder created automatically
+5. Finally, you will find all the resourses needed for editing this project
